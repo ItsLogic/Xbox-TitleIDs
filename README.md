@@ -1,7 +1,6 @@
 # Xbox-TitleIDs
 CSV of xbox title IDs for the achievement unlocker
 
-
 Accepting any pull requests
 
 IDs should be formated as followed:
